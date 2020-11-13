@@ -10,15 +10,15 @@ _En este trabajo se podrán encontrar distintas herramientas escenciales para cu
 
 ## Contenido
 
-###Calculadora de dB
+### Calculadora de dB
 
 En este ejercicio se podrá sumar, restar y promediar listas de dB de cualquier tamaño.
 
-###Conversión de tercio de octava a octava 
+### Conversión de tercio de octava a octava 
 
 Con este código se podrá hacer este tipo de conversiones y viceversa, además de una comparación entre ellas.
 
-###Filtro A
+### Filtro A
 
 Con esta actividad se logrará convertir ponderaciones tipo Z en ponderaciones tipo A.
 
